@@ -7,6 +7,8 @@
 - One-click external lookups (AbuseIPDB, Scamalytics fraud score, BrightCloud)
 - Clean dark-mode UI with animations
 
+<img width="1228" height="862" alt="image" src="https://github.com/user-attachments/assets/e8d33e26-7fdf-48ac-afc1-4cd6a508f0c4" />
+
 ## Prerequisites
 - Windows PowerShell 5.1+ (built-in on Windows 10/11)
 - Internet connection
@@ -18,3 +20,4 @@
 3. Run the script:
    ```powershell
    powershell.exe -ExecutionPolicy Bypass -File ".\IP Sense.ps1"
+   
