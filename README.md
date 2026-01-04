@@ -1,4 +1,4 @@
-## Features
+## Key Features
 - Batch scan up to 20 IPv4 addresses
 - Geolocation, ASN, ISP, organization data
 - Proxy/VPN/hosting provider detection
